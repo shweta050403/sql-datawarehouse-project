@@ -1,2 +1,2 @@
 # sql-datawarehouse-project
-End-to-end SQL Data Warehouse project implementing the Kimball methodology. This project covers data ingestion, staging, ETL pipelines, dimensional modeling, and analytical reporting using SQL Server.
+End-to-end SQL Data Warehouse project implementing a layered architecture (Bronze, Silver, Gold) with SQL Server. The project covers data ingestion, ETL pipelines, data modeling, and analytical reporting following industry best practices.
